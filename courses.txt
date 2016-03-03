@@ -4,3 +4,4 @@ viande
 fromage
 dessert
 fleurs
+bière
